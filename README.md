@@ -1,5 +1,5 @@
 # Python_Basics
-This repository contains foundational Python scripts and projects designed to help beginners learn the core concepts of Python programming. Whether you're new to coding or looking to refresh your Python skills, this repository covers key topics with practical examples and exercises.
+This repository contains foundational Python scripts and projects designed to help beginners learn the core concepts of Python programming.This repository covers key topics with practical examples and exercises.
 
 Topics Covered:
 
